@@ -1,3 +1,4 @@
 # DreamHack
-System Exploitation Fundamental \n
+System Exploitation Fundamental
+
 From http://dreamhack.io
